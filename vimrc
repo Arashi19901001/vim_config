@@ -25,6 +25,7 @@ Plugin 'SirVer/ultisnips'
 Plugin 'nvie/vim-flake8'
 Plugin 'davidhalter/jedi-vim'
 Plugin 'mattn/emmet-vim'
+Plugin 'elzr/vim-json'
 Bundle "lepture/vim-jinja"
 Bundle 'Rykka/riv.vim'
 
